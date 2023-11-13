@@ -1,0 +1,6 @@
+C:\Users\ArkadiuszNowak(26337\Desktop\CRC\biblioteka\CRC16\CRC16\CRC16\bin\x86\Debug\CRC16.dll
+C:\Users\ArkadiuszNowak(26337\Desktop\CRC\biblioteka\CRC16\CRC16\CRC16\bin\x86\Debug\CRC16.pdb
+C:\Users\ArkadiuszNowak(26337\Desktop\CRC\biblioteka\CRC16\CRC16\CRC16\obj\x86\Debug\CRC16.csproj.AssemblyReference.cache
+C:\Users\ArkadiuszNowak(26337\Desktop\CRC\biblioteka\CRC16\CRC16\CRC16\obj\x86\Debug\CRC16.csproj.CoreCompileInputs.cache
+C:\Users\ArkadiuszNowak(26337\Desktop\CRC\biblioteka\CRC16\CRC16\CRC16\obj\x86\Debug\CRC16.dll
+C:\Users\ArkadiuszNowak(26337\Desktop\CRC\biblioteka\CRC16\CRC16\CRC16\obj\x86\Debug\CRC16.pdb
